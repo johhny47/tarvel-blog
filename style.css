@@ -1,0 +1,19 @@
+*{
+    padding: 00;
+    margin: 00;
+    box-sizing: border-box;
+}
+.navbar{
+    height: 50px;
+    width:1200px;
+    background-color: aqua;
+    text-align: center;
+}
+h1{
+    color: rgb(134, 2, 64);
+}
+.yellow{
+    background-color:#fcc151;
+    width: 600px;
+    height: 500px;
+}
